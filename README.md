@@ -30,27 +30,39 @@ After installing Laragon:
 
 4. **Configure the Database**
 
-1. Open your preferred browser and go to:  
+---
+
+5. Open your preferred browser and go to:  
    `http://localhost/phpmyadmin`
 
-2. **Login Credentials:**  
+---
+
+6. **Login Credentials:**  
    - **Username:** `root`  
    - **Password:** *(leave it blank)*
 
-3. Create a **new database** called: quiz
+---
 
-4. Import the `.sql` file provided in the repository into the `quiz` database.
+7. Create a **new database** called: quiz
 
-5. **Restart Laragon**
+---
+
+8. Import the `.sql` file provided in the repository into the `quiz` database.
+
+---
+
+9. **Restart Laragon**
 Restart Laragon so it can detect the new project files automatically.
 
- 6. **Run the Project**
+---
+
+10. **Run the Project**
 - Launch Laragon
 - Open the project from the Laragon menu or directly via: http://localhost/your-project-folder
 
+---
 
 > ✅ You're all set! Explore the features, test the mental health quiz, and interact with the chatbot.
-
 
 ## 💬 Need Help?
 Feel free to open an issue in this repository if you face any setup issues or bugs.

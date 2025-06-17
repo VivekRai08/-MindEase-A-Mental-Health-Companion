@@ -28,35 +28,31 @@ After installing Laragon:
 
 ---
 
-4. **Configure the Database**
-
----
-
-5. Open your preferred browser and go to:  
+4. **Open your preferred browser and go to:**
    `http://localhost/phpmyadmin`
 
 ---
 
-6. **Login Credentials:**  
+5. **Login Credentials:**  
    - **Username:** `root`  
    - **Password:** *(leave it blank)*
 
 ---
 
-7. Create a **new database** called: quiz
+6. **Create a **new database** called: quiz**
 
 ---
 
-8. Import the `.sql` file provided in the repository into the `quiz` database.
+7. **Import the `.sql` file provided in the repository into the `quiz` database.**
 
 ---
 
-9. **Restart Laragon**
+8. **Restart Laragon**
 Restart Laragon so it can detect the new project files automatically.
 
 ---
 
-10. **Run the Project**
+9. **Run the Project**
 - Launch Laragon
 - Open the project from the Laragon menu or directly via: http://localhost/your-project-folder
 
